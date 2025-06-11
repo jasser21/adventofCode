@@ -185,5 +185,3 @@ public class SafeGridComparison {
     }
 }
 ```
-
-This implementation ensures safe access to grid positions while maintaining clean, readable code structure.
